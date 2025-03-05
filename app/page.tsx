@@ -26,7 +26,7 @@ export default function Home() {
         </div>
 
         <div className="px-12 py-6 flex flex-col">
-          <h2 className="font-semibold text-2xl">Features</h2>
+          <h2 className="font-semibold text-2xl">Tech Stack</h2>
           <ul className="list-disc *:font-medium *:opacity-80 list-inside mt-4 space-y-2 px-4">
             <li>Next.js</li>
             <li>React</li>
